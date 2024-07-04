@@ -1,3 +1,20 @@
-h2{
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
     color: brown;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: fantasy;
+    text-decoration: overline;
+    font-size: 80px;
+    text-align: center;
+}
+#heading-parent{
+    background-color: rgb(31, 10, 2);
+    height: 600px;
+    padding: 100px 0;
+    width: px;
+    margin: 30px auto;
 }
